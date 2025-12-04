@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "data": {
+    "content": [
+      {
+        "date": "2022-04-30",
+        "season": 2021,
+        "home_team": "Sutton United",
+        "away_team": "Bradford City",
+        "home_team_goals": 1,
+        "away_team_goals": 4
+      },
+      {
+        "date": "2022-04-30",
+        "season": 2021,
+        "home_team": "Swindon Town",
+        "away_team": "Barrow",
+        "home_team_goals": 2,
+        "away_team_goals": 1
+      }
+    ]
+  }
+}
